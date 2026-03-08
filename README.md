@@ -1,8 +1,8 @@
-GIBSON_Pro_Mailer 2
+Mail Zenga formaly as Email_sender 
 A high-performance bulk email sender built for efficiency and professional outreach.
 
 Features
-PyQt6 Interface: Clean, modern, and responsive GUI.
+Interface: Clean, modern, and responsive GUI.
 
 SMTP Integration: Supports secure mail server protocols.
 
@@ -11,7 +11,7 @@ Attachment Support: Send documents and media effortlessly.
 Customization: Tailor your sender identity and email body.
 
 Installation & Usage
-Download the GIBSON_Pro_Mailer.exe from the Releases section.
+Download the Email_zenga.exe from the Releases section.
 
 Run the application (no installation required).
 
