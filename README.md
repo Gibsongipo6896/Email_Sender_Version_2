@@ -1,4 +1,4 @@
-Mail Zenga formaly as Email_sender 
+Email Zenga formaly as Email_sender 
 A high-performance bulk email sender built for efficiency and professional outreach.
 
 Features
